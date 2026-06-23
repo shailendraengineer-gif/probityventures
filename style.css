@@ -552,3 +552,15 @@ p{
 body{
     border:20px solid red !important;
 }
+/* RED BORDER OVERRIDE */
+
+html,
+body{
+    border:none !important;
+    outline:none !important;
+    background:#ffffff !important;
+}
+
+*{
+    outline:none !important;
+}
