@@ -526,3 +526,6 @@ margin:auto;
 margin-bottom:20px;
 text-align:justify;
 }
+body{
+    border:20px solid red !important;
+}
