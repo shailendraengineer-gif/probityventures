@@ -507,3 +507,11 @@ flex-direction:column;
 }
 
 }
+.card ul{
+padding-left:20px;
+margin-top:15px;
+}
+
+.card li{
+margin-bottom:12px;
+}
