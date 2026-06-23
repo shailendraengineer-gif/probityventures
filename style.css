@@ -515,3 +515,14 @@ margin-top:15px;
 .card li{
 margin-bottom:12px;
 }
+/* Founder Section */
+
+.founder-card{
+max-width:1000px;
+margin:auto;
+}
+
+.founder-card p{
+margin-bottom:20px;
+text-align:justify;
+}
