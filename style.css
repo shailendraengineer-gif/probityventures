@@ -529,3 +529,28 @@ text-align:justify;
 body{
     border:20px solid red !important;
 }
+/* FOUNDER SECTION FIX */
+
+.founder-card{
+    color:#1a1a1a !important;
+}
+
+.founder-card p{
+    color:#1a1a1a !important;
+    text-align:justify !important;
+    line-height:1.9;
+    margin-bottom:20px;
+}
+
+.founder-card h3{
+    color:#0B2345;
+}
+/* GLOBAL PARAGRAPH FORMAT */
+
+p{
+    text-align:justify;
+    line-height:1.8;
+}
+body{
+    border:20px solid red !important;
+}
