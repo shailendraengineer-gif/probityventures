@@ -584,3 +584,59 @@ body{
     color:#0B1F3A;
     margin-bottom:15px;
 }
+```css
+/* ==========================================
+V3.2 PROFESSIONAL CARD OPTIMIZATION
+========================================== */
+
+.card{
+    padding:18px !important;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+.focus-card{
+    padding:18px !important;
+    min-height:170px !important;
+}
+
+.framework-box{
+    padding:18px !important;
+    min-height:150px !important;
+}
+
+.contact-grid .card{
+    padding:18px !important;
+}
+
+.framework-grid{
+    gap:15px !important;
+}
+
+.focus-grid{
+    gap:15px !important;
+}
+
+.contact-grid{
+    gap:15px !important;
+}
+
+.card h3{
+    margin-bottom:12px;
+}
+
+.card p{
+    margin-bottom:12px;
+    line-height:1.75;
+    text-align:justify !important;
+}
+
+.focus-card p{
+    line-height:1.7;
+    text-align:justify !important;
+}
+
+.section{
+    padding:70px 0;
+}
+```
