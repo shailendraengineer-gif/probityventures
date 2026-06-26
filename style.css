@@ -263,13 +263,13 @@ margin:15px 0;
 /* ABOUT */
 
 .large-text{
-
-font-size:1.2rem;
-
-margin-bottom:25px;
-
-text-align:center;
-
+    font-size:1.15rem;
+    line-height:1.9;
+    color:#333333;
+    max-width:1000px;
+    margin:0 auto 35px auto;
+    text-align:center;
+    font-weight:400;
 }
 
 /* MISSION VISION */
@@ -645,3 +645,37 @@ V3.2 PROFESSIONAL CARD OPTIMIZATION
     padding:70px 0;
 }
 ```
+/* ==========================================
+ABOUT SECTION V4
+========================================== */
+
+#about .large-text{
+    font-size:1.2rem;
+    line-height:1.9;
+    color:#333;
+    max-width:1000px;
+    margin:0 auto 40px;
+    text-align:center;
+    font-weight:400;
+}
+
+#about p{
+    font-size:1.05rem;
+    line-height:1.9;
+    color:#444;
+    max-width:1050px;
+    margin:0 auto 25px;
+    text-align:justify;
+}
+
+#about .container{
+    max-width:1150px;
+}
+
+#about{
+    padding:90px 20px;
+}
+
+#about h2{
+    margin-bottom:20px;
+}
