@@ -679,3 +679,148 @@ ABOUT SECTION V4
 #about h2{
     margin-bottom:20px;
 }
+/* ==========================================
+HERO V4
+========================================== */
+
+.hero{
+
+background:#102544;
+
+padding:170px 0 120px;
+
+color:#fff;
+
+}
+
+.hero-grid{
+
+display:grid;
+
+grid-template-columns:1.4fr .9fr;
+
+align-items:center;
+
+gap:70px;
+
+}
+
+.hero-tagline{
+
+display:inline-block;
+
+letter-spacing:3px;
+
+font-size:13px;
+
+color:#C9A227;
+
+margin-bottom:25px;
+
+font-weight:600;
+
+}
+
+.hero h1{
+
+font-size:58px;
+
+line-height:1.15;
+
+font-weight:700;
+
+margin-bottom:30px;
+
+}
+
+.hero h1 span{
+
+color:white;
+
+}
+
+.hero-subtitle{
+
+font-size:21px;
+
+line-height:1.8;
+
+color:#dfe6ef;
+
+max-width:760px;
+
+margin-bottom:45px;
+
+}
+
+.hero-buttons{
+
+display:flex;
+
+gap:20px;
+
+}
+
+.btn-primary{
+
+background:#C9A227;
+
+padding:18px 38px;
+
+border-radius:6px;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:600;
+
+}
+
+.btn-secondary{
+
+border:2px solid white;
+
+padding:18px 38px;
+
+border-radius:6px;
+
+color:white;
+
+text-decoration:none;
+
+font-weight:600;
+
+}
+
+.btn-primary:hover{
+
+background:#b68d14;
+
+}
+
+.btn-secondary:hover{
+
+background:white;
+
+color:#102544;
+
+}
+
+.hero-right{
+
+text-align:center;
+
+}
+
+.hero-right img{
+
+width:380px;
+
+border-radius:18px;
+
+box-shadow:0 25px 70px rgba(0,0,0,.35);
+
+border:6px solid rgba(255,255,255,.08);
+
+}
