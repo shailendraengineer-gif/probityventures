@@ -283,7 +283,7 @@ gap:40px;
 
 background:white;
 
-padding:40px;
+padding:20px;
 
 border-radius:10px;
 
@@ -319,7 +319,7 @@ display:grid;
 
 grid-template-columns:repeat(4,1fr);
 
-gap:25px;
+gap:15px;
 
 }
 
@@ -327,7 +327,7 @@ gap:25px;
 
 background:white;
 
-padding:35px;
+padding:20px;
 
 text-align:center;
 
@@ -349,7 +349,7 @@ transform:translateY(-5px);
 
 color:var(--gold);
 
-font-size:2rem;
+font-size:1.6rem;
 
 margin-bottom:10px;
 
@@ -365,7 +365,7 @@ color:var(--navy);
 
 margin-top:50px;
 
-padding:30px;
+padding:20px;
 
 background:var(--navy);
 
@@ -387,7 +387,7 @@ display:grid;
 
 grid-template-columns:repeat(4,1fr);
 
-gap:25px;
+gap:15px;
 
 }
 
@@ -395,7 +395,7 @@ gap:25px;
 
 background:white;
 
-padding:35px;
+padding:20px;
 
 text-align:center;
 
@@ -415,7 +415,7 @@ transform:translateY(-5px);
 
 .focus-card h3{
 
-font-size:1.1rem;
+font-size:1.5rem;
 
 color:var(--navy);
 
