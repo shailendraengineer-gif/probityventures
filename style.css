@@ -127,12 +127,17 @@ padding:120px 20px;
 
 .hero h1{
 
-font-size:4rem;
-line-height:1.2;
+font-size:3rem;
+
+line-height:1.25;
 
 color:white;
 
-margin-bottom:30px;
+font-weight:700;
+
+max-width:1000px;
+
+margin:0 auto 25px auto;
 
 }
 
